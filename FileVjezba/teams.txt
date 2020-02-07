@@ -1,0 +1,15 @@
+Robert,Lewandowski,Bayern Munich,Striker,30,Poland
+Toni,Kroos,Real Madrid,Central Midfielder,28,Germany
+Cristiano,Ronaldo,Juventus,Left Winger,33,Portugal
+Anthony,Martial,Bayern Munich,Left Winger,23,France
+Julian,Brandt,Bayern Munich,Right Winger,22,Germany
+Paulo,Dybala,Juventus,Attacking Midfielder,26,Argentina
+Thibaut,Courtois,Real Madrid,Goalkeeper,27,Belgium
+Leonardo,Bonucci,Juventus,Centre-back,31,Italy
+Karim,Benzema,Real Madrid,Striker,31,France
+Niklas,Sule,Bayern Munich,Centre-back,23,Germany
+Renato,Sanches,Bayern Munich,Central Midfielder,20,Portugal
+Mario,Mandzukic,Juventus,Striker,32,Croatia
+Luka,Modric,Real Madrid,Central Midfielder,32,Croatia
+Mauro,Icardi,Real Madrid,Striker,26,Argentina
+Marco,Reus,Bayern Munich,Attacking Midfielder,29,Germany

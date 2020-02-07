@@ -1,0 +1,4 @@
+1 student(s) got 7 points.
+1 student(s) got 8 points.
+2 student(s) got 9 points.
+2 student(s) got 10 points.
